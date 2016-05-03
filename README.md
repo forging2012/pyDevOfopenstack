@@ -9,7 +9,7 @@
 
 详细内容如下：    
 参考链接：http://www.processon.com/view/link/57284354e4b0d554ee65e435
-![详细内容](../img/outline.png)
+![详细内容](img/outline.png)
 
 
 课件内容：    
